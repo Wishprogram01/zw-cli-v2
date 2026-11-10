@@ -29,9 +29,8 @@ Dibangunkan oleh **[ZWDevs](https://www.google.com/search?q=https://github.com/W
 
 ## 🚧 Roadmap (Akan Datang)
 
-* [ ] Integrasi `pulldown-cmark` untuk menukar fail Markdown (`.md`) kepada HTML secara terus dari terminal.
 * [ ] Automasi muat turun fail dan skrip terus dari GitHub.
-* [ ] Pengurusan fail tempatan secara pukal.
+* [ ] Pengurusan fail tempatan 
 
 ---
 
